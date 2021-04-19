@@ -1,3 +1,5 @@
 # Design Pattern Codes
 
-## SOLID Principles
+### SOLID Principles
+
+1. Single-Responsibility Principle
