@@ -60,6 +60,7 @@ const useIt = function(rectangle) {
 
 const rectangle = new Rectangle(10, 5);
 const square = new Square();
+// violate LSP
 useIt(rectangle);
 useIt(square);
 // console.log(rectangle.toString())
