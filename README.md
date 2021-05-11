@@ -7,3 +7,7 @@
 3. Liskov - Substitution Principle (LSP)
 4. Interface - Segregation Principle (ISP)
 5. Dependency - Inversion Principle (DIP)
+
+### Creational Design Patterns
+
+1. Singleton
